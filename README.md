@@ -1,4 +1,4 @@
-# Spotify Data Analysis and Query Optimization P3 - Intermediate Level
+# Spotify Data Analysis and Query Optimization P3 - Intermediate Level(SQL)
 Project Category: Intermediate
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
